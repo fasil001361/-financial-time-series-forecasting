@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* Name: Jerin K Jaison
-* University Registration Number: TCR24CS036
+* Name: FASIL FIROSE
+* University Registration Number: TCR24CS028
 
 ---
 
